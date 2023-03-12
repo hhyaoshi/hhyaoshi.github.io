@@ -1,2 +1,2 @@
 # hhyaoshi.github.io
-Personal blogs
+Personal blog
